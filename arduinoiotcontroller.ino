@@ -2,8 +2,8 @@
 #include <SocketIoClient.h>
 SocketIoClient webSocket;
 
-const char* ssid     = "ssid";
-const char* password = "password";
+const char* ssid     = "sevialekatia";
+const char* password = "Tunadog2019";
 
 #define USE_SERIAL Serial
 
